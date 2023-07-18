@@ -1,0 +1,14 @@
+{
+  "name": "recipe-back",
+  "version": "0.0.1",
+  "description": "backend for recipe builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Michael Hegner",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.19.2"
+  }
+}
